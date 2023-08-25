@@ -17,10 +17,9 @@ I'm interested in web design, machine learning, and data visualisations.
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/e444b110-ef2d-4597-8458-7b059513a83e' alt='Python' height='40'>
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/3840973b-0ca7-4e51-8d12-49b27f0b1cda' alt='C#' height='40'>
 
-
 ## Get In Touch
-[<img src='https://github.com/sam-mata/sam-mata/assets/49130157/384ea027-24d2-4ccc-b476-1df661261412' alt='LinkedIn' height='60'>](www.linkedin.com/in/sam-mata)
-[<img src='https://github.com/sam-mata/sam-mata/assets/49130157/aa2da65f-c1ce-412e-8e95-355ac6f9be8a' alt='Gmail' height='60'>](mailto:sammatanz@gmail.com)
-[<img src='https://github.com/sam-mata/sam-mata/assets/49130157/63a14bcf-f349-4dd3-b464-a42b342d6b7d' alt='Gitlab' height='60'>](https://gitlab.ecs.vuw.ac.nz/matasamu)
+[<img src="linkedin.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/sam-mata)
+[<img src="gmail.png" alt="Gmail" width="60"/>](mailto:sammatanz@gmail.com)
+[<img src="gitlab.png" alt="Gitlab" width="60"/>](https://gitlab.ecs.vuw.ac.nz/matasamu)
 
-[Learn more about me.](https://sammata.nz)
+# [Portfolio](https://sammata.nz)
