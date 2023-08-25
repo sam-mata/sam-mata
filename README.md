@@ -19,7 +19,6 @@ I'm interested in web design, machine learning, and data visualisations.
 
 ## Get In Touch
 [<img src="linkedin.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/sam-mata)
-[<img src="gmail.png" alt="Gmail" width="60"/>](mailto:sammatanz@gmail.com)
 [<img src="gitlab.png" alt="Gitlab" width="60"/>](https://gitlab.ecs.vuw.ac.nz/matasamu)
 
 # [Portfolio](https://sammata.nz)
