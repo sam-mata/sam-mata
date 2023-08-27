@@ -1,11 +1,12 @@
 # 👋 Kia Ora! I'm Sam Mata.
 
-I'm in my final year of study of a **Bachelor of Science** majoring in **Computer Science** at 
+I'm in my final year of study of a 🎓 **Bachelor of Science** majoring in **Computer Science** at 
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/5fff67bc-2495-4208-bb21-18b2932626d7' alt='HTML' height='10'> **Victoria University of Wellington**. 
 
-I work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make websites and mobile applications with React.
+I work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make websites and mobile applications with
+<img src='https://github.com/sam-mata/sam-mata/assets/49130157/04c6744c-9410-4a7e-a9e1-d296d7aac573' alt='React' height='10'> React.
 
-I'm interested in web design, machine learning, and data visualisations.
+I'm interested in 🎨 web design, 🤖 machine learning, and 📊 data visualisations.
 
 ## Tools
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/b9c0ef68-c166-4a0e-90c7-1601a41e42fb' alt='HTML' height='40'>
@@ -17,8 +18,4 @@ I'm interested in web design, machine learning, and data visualisations.
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/e444b110-ef2d-4597-8458-7b059513a83e' alt='Python' height='40'>
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/3840973b-0ca7-4e51-8d12-49b27f0b1cda' alt='C#' height='40'>
 
-## Get In Touch
-[<img src="linkedin.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/sam-mata)
-[<img src="gitlab.png" alt="Gitlab" width="60"/>](https://gitlab.ecs.vuw.ac.nz/matasamu)
-
-# [Portfolio](https://sammata.nz)
+## [Portfolio](https://sammata.nz)
