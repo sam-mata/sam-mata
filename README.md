@@ -4,7 +4,9 @@ I'm in my final year of study of a 🎓 **Bachelor of Science** majoring in **Co
 <img src='https://github.com/sam-mata/sam-mata/assets/49130157/5fff67bc-2495-4208-bb21-18b2932626d7' alt='HTML' height='10'> **Victoria University of Wellington**. 
 
 I work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make websites and mobile applications with
-<img src='https://github.com/sam-mata/sam-mata/assets/49130157/04c6744c-9410-4a7e-a9e1-d296d7aac573' alt='React' height='10'> React.
+
+<img src='https://github.com/sam-mata/sam-mata/assets/49130157/04c6744c-9410-4a7e-a9e1-d296d7aac573' alt='React' height='10'> React, <img src='https://github.com/sam-mata/sam-mata/assets/49130157/9462ed7d-31d3-4cfc-8fc0-0c9b326c0bda' alt='Tailwind' height='10'>
+Tailwind, and <img src='https://github.com/sam-mata/sam-mata/assets/49130157/49fcc520-489c-49e3-ac20-4330ebeac7d6' alt='TypeScript' height='10'> TypeScript.
 
 I'm interested in 🎨 web design, 🤖 machine learning, and 📊 data visualisations.
 
