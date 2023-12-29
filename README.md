@@ -1,6 +1,6 @@
 # 👋 Kia Ora! I'm Sam.
 
-I'm completing a BSc (Hons) in AI at **Victoria University of Wellington**, where I study machine learning and neural networks.
+I'm completing a **BSc (Hons**) in **AI** at **Victoria University of Wellington**, where I study machine learning and neural networks.
 
 I also work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make websites and mobile applications with React, Tailwind, Ionic, and TypeScript.
 
