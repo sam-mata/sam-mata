@@ -7,3 +7,5 @@ I'm completing a **BSc (Hons**) in **AI** at **Victoria University of Wellington
 I also work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make websites and mobile applications with React, Tailwind, and TypeScript.
 
 ### [Learn more about me.](https://www.sammata.nz/)
+
+![Sams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mata&theme=transparent&show_icons=true)
