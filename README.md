@@ -8,4 +8,4 @@ I also work as a **Full-Stack Web Developer** at **Ordino Ltd.**, where I make w
 
 ### [Learn more about me.](https://www.sammata.nz/)
 
-![Sams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mata&theme=transparent&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sam-mata&theme=transparent&show_icons=true&locale=en&layout=compact" alt="sam-mata" height="175px"/></img><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-mata&theme=transparent&show_icons=true&locale=en&layout=compact" alt="sam-mata" height="175px"></img> 
